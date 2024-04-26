@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas Barbieri</h1>
-<h3 align="center">Beginner developer from Brazil.</h3>
+<h3 align="center">Developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabuxas&label=Profile%20views&color=c061cb&style=flat" alt="jabuxas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jabuxas" target="blank"><img src="https://img.shields.io/twitter/follow/jabuxas?logo=twitter&style=for-the-badge" alt="jabuxas" /></a> </p>
-
-- 🌱 I’m currently learning **Rust, Python and Web Development**
+- 🌱 I’m currently learning **Vue.js, Golang and Emacs**
 
 - 💬 Ask me about **Linux**
 
@@ -23,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabuxas&show_icons=true&locale=en" alt="jabuxas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabuxas" alt="jabuxas" /></p>
-
